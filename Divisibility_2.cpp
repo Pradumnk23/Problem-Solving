@@ -39,3 +39,4 @@ int main()
 
     return 0;
 }
+// can solve it by m2
