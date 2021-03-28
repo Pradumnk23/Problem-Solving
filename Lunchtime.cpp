@@ -17,6 +17,7 @@ int main()
         lli h[n];
         for(lli i=0; i<n; i++)
             cin>>h[i];
+        lli cnt[n]={0};
         for(lli i=0; i<=n; i++)
         {
             for(lli j=i+1; j<n; j++)
@@ -25,15 +26,15 @@ int main()
                     continue;
                 if(h[i]==h[j])
                 {
-                    h[i]++;
-                    h[j]++;
+                    cnt[i]++;
+                    cnt[j]++;
                 }
                 if(h[i]<h[j])
                     break;
             }
         }
         for(lli i=0; i<n; i++)
-            cout<<h[i]<<" ";
+            cout<<cnt[i]<<" ";
         cout<<endl;
     }
 	return 0;
