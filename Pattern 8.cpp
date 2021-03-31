@@ -17,7 +17,7 @@ int main()
             else
                 cout<<" ";
         }
-        cout<<endl;
+        cout<<endl; // always new line
     }
     return 0;
 }
