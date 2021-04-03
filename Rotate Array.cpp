@@ -67,7 +67,7 @@ int main() {
 	    for(int i =0;i<n;i++){
 	        cout << arr[i] << " ";
 	    }
-	    cout << endl;
+	    cout << endl; // new line
 	}
 	return 0;
 }  // } Driver Code Ends
