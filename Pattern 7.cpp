@@ -30,7 +30,7 @@ int main()
             cout<<"*";
             k++;
         }
-        cout<<endl;
+        cout<<endl; // new line
     }
 
     return 0;
