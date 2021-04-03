@@ -47,7 +47,7 @@ int main() {
         for(long long i = 0; i<n; i++){
             cout << arr[i] << " "; 
         }
-        cout << endl;
+        cout << endl; // new line
     }
 }
 
