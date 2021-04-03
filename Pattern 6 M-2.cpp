@@ -21,7 +21,7 @@ int main()
         {
             cout<<"*";
         }
-        cout<<endl;
+        cout<<endl; // for new line
     }
     return 0;
 }
