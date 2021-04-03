@@ -18,7 +18,7 @@ int main()
         {
             cout<<"*";
         }
-        cout<<endl;
+        cout<<endl; // new line
     }
     return 0;
 }
