@@ -1,2 +1,2 @@
 # Problem-Solving
-List of cp codes or some basic & imp codes.
+This repository contains the solutions of problems solved during CP
