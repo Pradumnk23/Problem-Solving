@@ -38,7 +38,7 @@ int main()
 
     r_area.Rectangle::display();
 
-    r_area.display();
+    r_area.display();// all fn
 
     return 0;
 }
